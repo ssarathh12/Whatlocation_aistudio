@@ -1,0 +1,8 @@
+{
+  "name": "Remix GeoPuzzle - Map Puzzles",
+  "description": "Interactive geography and map puzzle games where players drag, drop, and snap regions and states into place.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
